@@ -1,4 +1,3 @@
-Here is the content converted into `README.md` file format:
 
 ```markdown
 # sysopctl - System Management Tool
